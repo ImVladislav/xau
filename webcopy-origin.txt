@@ -1,0 +1,100 @@
+Uri: https://bitcointalk.org/Themes/BTC.ttf
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\BTC.ttf
+Content Type: application/octet-stream
+
+Uri: https://bitcointalk.org/Themes/ChopinScript.ttf
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\ChopinScript.ttf
+Content Type: application/octet-stream
+
+Uri: https://bitcointalk.org/Themes/custom1/images/catbg.jpg
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\images\catbg.jpg
+Content Type: image/jpeg
+
+Uri: https://bitcointalk.org/Themes/custom1/images/catbg2.jpg
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\images\catbg2.jpg
+Content Type: image/jpeg
+
+Uri: https://bitcointalk.org/Themes/custom1/images/maintab_active_back.gif
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\images\maintab_active_back.gif
+Content Type: image/gif
+
+Uri: https://bitcointalk.org/Themes/custom1/images/maintab_active_first.gif
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\images\maintab_active_first.gif
+Content Type: image/gif
+
+Uri: https://bitcointalk.org/Themes/custom1/images/maintab_active_last.gif
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\images\maintab_active_last.gif
+Content Type: image/gif
+
+Uri: https://bitcointalk.org/Themes/custom1/images/maintab_back.gif
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\images\maintab_back.gif
+Content Type: image/gif
+
+Uri: https://bitcointalk.org/Themes/custom1/images/maintab_first.gif
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\images\maintab_first.gif
+Content Type: image/gif
+
+Uri: https://bitcointalk.org/Themes/custom1/images/maintab_last.gif
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\images\maintab_last.gif
+Content Type: image/gif
+
+Uri: https://bitcointalk.org/Themes/custom1/images/powered-mysql.gif
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\images\powered-mysql.gif
+Content Type: image/gif
+
+Uri: https://bitcointalk.org/Themes/custom1/images/powered-php.gif
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\images\powered-php.gif
+Content Type: image/gif
+
+Uri: https://bitcointalk.org/Themes/custom1/images/smflogo.gif
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\images\smflogo.gif
+Content Type: image/gif
+
+Uri: https://bitcointalk.org/Themes/custom1/images/titlebg.jpg
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\images\titlebg.jpg
+Content Type: image/jpeg
+
+Uri: https://bitcointalk.org/Themes/custom1/images/valid-css.gif
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\images\valid-css.gif
+Content Type: image/gif
+
+Uri: https://bitcointalk.org/Themes/custom1/images/valid-xhtml10.gif
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\images\valid-xhtml10.gif
+Content Type: image/gif
+
+Uri: https://bitcointalk.org/Themes/custom1/mobile.css
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\mobile.css
+Content Type: text/css
+
+Uri: https://bitcointalk.org/Themes/custom1/style.css
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\custom1\style.css
+Content Type: text/css
+
+Uri: https://bitcointalk.org/Themes/default/print.css
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\default\print.css
+Content Type: text/css
+
+Uri: https://bitcointalk.org/Themes/throb.gif
+File Name: C:\Downloaded Web Sites\stackxbt.com\Themes\throb.gif
+Content Type: image/gif
+
+Uri: https://stackxbt.com/
+File Name: C:\Downloaded Web Sites\stackxbt.com\index.htm
+Content Type: text/html
+
+Uri: https://stackxbt.com/favicon.ico
+File Name: C:\Downloaded Web Sites\stackxbt.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://stackxbt.com/IMG_5300.PNG
+File Name: C:\Downloaded Web Sites\stackxbt.com\IMG_5300.PNG
+Content Type: image/png
+
+Uri: https://stackxbt.com/money.gif
+File Name: C:\Downloaded Web Sites\stackxbt.com\money.gif
+Content Type: image/gif
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: C:\Downloaded Web Sites\stackxbt.com\beacon.min.js
+Content Type: text/javascript
+
